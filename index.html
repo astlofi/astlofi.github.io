@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html>
+   <head>
+      <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+      <meta charset="UTF-8">
+      <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <title>lofi</title>
+      <script src="jquery-3.5.1.min.js"></script>
+      <script src="index.js" type="text/javascript"></script>
+      <link rel="stylesheet" href="css.css">
+      <script async src="https://www.googletagmanager.com/gtag/js?id=UA-172325366-1"></script>
+   </head>
+   <body id="body">
+      <!--VK OPENAPI START-->
+      <div id="vk_api_transport"></div>
+      <script type="text/javascript">
+      window.vkAsyncInit = function() {
+         VK.init({
+            apiId: 7565001
+         });
+      };
+
+      setTimeout(function() {
+         var el = document.createElement("script");
+         el.type = "text/javascript";
+         el.src = "https://vk.com/js/api/openapi.js?168";
+         el.async = true;
+         document.getElementById("vk_api_transport").appendChild(el);
+      }, 0);
+      </script>
+      <!--VK OPENAPI END-->
+
+      <div id="ui">
+	 <div id="wiki">
+	  	 <p style="text-align: left;">Lo-fiWiki</p>
+<p style="text-align: left;"><img id="art_logo" src="" width="300" height="300" alt="" /><span id="name_art"style="text-align: right;">idozzz</span></p>
+<p id="info_art">
+  info
+</p>
+<a id="vk_art" href="">vk</a>
+<br>
+<a id="youtube_art" href="">youtube</a>
+<br>
+<a id="twitter_art" href="">twitter</a>
+<br>
+<a id="instagram_art" href=""> instagram</a>
+<br>
+<a id="soundcloud_art" href="">soundcloud</a>
+<br>
+<a id="spotify_art" href="">spotify</a>
+<br>
+<a id="deezer_art" href="">deezer</a>
+</div>
+	</div>  
+	  
+	  <div class="preloader">
+            <div class="preloader__image"></div>
+         </div>
+        
+         <script src='https://cdnjs.cloudflare.com/ajax/libs/classlist/2014.01.31/classList.min.js'></script>
+         <script  src="js/index.js"></script>
+         <div class="menu">
+            <div class="down">
+               <button class="dropbtn">Our Socials
+               <i class="fa fa-caret-down"></i>
+               </button>
+               <div class="down-content">
+                  <a href="https://vk.com/astlofi">VK</a>
+                  <a href="https://twitter.com/astlofi">Twitter</a>
+               </div>
+            </div>
+            <a href="/wikilofi.html">About authors</a>
+
+            <a target="_blank" href="https://discord.com/oauth2/authorize?client_id=746464131829334117&permissions=3468608&scope=bot">Our discord bot</a>
+            <a href="https://aslofiradio.imfast.io/ast%20lo-fi%20radio.exe">Download PC App</a>
+             <input style="size:50%;" id="range" min="0" max="1" step="0.01" value="1" type="range" oninput="vol();">
+            <div id="authHTML1"class="down"></div>
+         </div>
+         <p style="text-align: center;"><img width="200" height="200" id="t_img" style="border-radius: 15px; color: white; background: #f5b08f; border: 5px solid #532831" src="https://aslofiradio.imfast.io/images/unknown.jpg" alt="lofi"></p>
+         <div id="info_music" style="overflow: auto; margin: auto; background: #f5b08f; color: white; border-radius: 15px; border: 5px solid #532831; height:auto; width: 500px;">
+            <h1 id="t_name" style="text-align: center;">ast lo-fi</h1>
+            <a id="t_authorParent">
+               <h4 id="t_author" style="text-align: center;">Nothing is playing.</h4>
+            </a>
+            <div id="roledxd_TrackTime">
+               <h4 id="t_trackTime" style="text-align: center;">00:00 | 00:00</h4>
+            </div>
+            <body>
+               <script>
+                  var h = window.screen.availHeight;
+                  var w = window.screen.availWidth;
+                  if (/Android|webOS|iPhone|iPad|iPod|Moto|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) && !/Windows|Desktop/i.test(navigator.userAgent)) {
+                      $("#ui_on").css("display", "none");
+                      $("#ui_off").css("display", "none");
+                      if(h == 360 && w == 640){
+                          $("#info_music").css("width", "95%");
+                      }
+                      else if(h == 1280 && w == 720){
+                          $("#info_music").css("width", "75%");
+                      }
+                      else if(h == 823 && w == 411){
+                          $("#info_music").css("width", "95%");
+                      }
+                      else if(h == 1366 && w == 1024){
+                          $("#info_music").css("width", "65%");
+                      }
+                      else if(h == 768 && w == 1024){
+                          $("#info_music").css("width", "65%");
+                      }
+                      else if(h == 735 && w == 812){
+                          $("#info_music").css("width", "95%");
+                      }
+                      else if(h == 812 && w == 375){
+                          $("#info_music").css("width", "95%");
+                      }
+                      else if(h == 720 && w == 1280){//горизонтально
+                          $("#info_music").css("width", "55%");
+                      }
+                      else{
+                          $("#info_music").css("width", "85%");
+                      }
+                  
+                  } else {
+                      $("#info_music").css("width", "500px");
+                      $("input[type=range]").css("width", "150px");
+                       $("input[type=range]").css("height", "40px");
+                  }
+                  	
+               </script>
+               <audio controls class="radio" id="radio" onended="radio();">
+                  <source src="" type="audio/mpeg">
+               </audio>
+         </div>
+         <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+         <p style="text-align: center;"><button onclick="radio();" id="btn" class="btn" style="border-radius:10px;">&#9658;</button><!--START LISTENING BTN-->
+         <button onclick="playButton()" id="btn_no" class="btn_no" style="border-radius:10px;">&#10074;&#10074;</button><!--Обновил кнопку хуёпку-->
+         <button onclick="radio()" id="btn_no2" class="btn_no" style="border-radius:10px;">►►</button>
+         </p>
+        
+        
+         <script>
+          function like() {
+$.get("http://aslofiradio.imfast.io/like.txt", function(data) {
+console.log("wo");
+});
+console.log("work");
+}
+            function vol(){
+            var audio = document.getElementById('radio');
+            var rng=document.getElementById('range');
+               audio.volume=rng.value;
+            }
+         </script>
+      </div>
+      <script>
+         function ui_off(){
+         $("#ui").css("display", "none");
+         $("#ui_on").css("display", "");
+         $("#ui_off").css("display", "none")
+         }
+         function ui_on(){
+         $("#ui").css("display", "");
+         $("#ui_on").css("display", "none");
+         $("#ui_off").css("display", "")
+         }
+         
+            
+      </script>
+     
+      <ul class="body_slides">
+      <li></li>
+      <li></li>
+      <li></li>
+      <li></li>
+      <li></li>
+      <li></li>
+      <li></li>
+      <li></li>
+      <li></li>
+      <li></li>
+      <li></li>
+      <li></li>
+      <li></li>
+      </ul>
+      
+   </body>
+</html>

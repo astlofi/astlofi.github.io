@@ -1,0 +1,481 @@
+[{
+  "id": 0,
+  "artistId": null,
+  "path": "music/Still.mp3",
+  "name": "Still",
+  "artist": "Hariss Cole & Aso",
+  "logo": "images/unknown.jpg"
+},
+{
+  "id": 1,
+  "artistId": null,
+  "path": "music/sunflowers.mp3",
+  "name": "sunflowers",
+  "artist": "Borealism",
+  "logo": "images/sunflowers.jpg"
+},
+{
+  "id": 2,
+  "artistId": null,
+  "path": "music/Get Up and Go (Original Mix).mp3",
+  "name": "Get Up and Go (Original Mix)",
+  "artist": "Aviino",
+  "logo": "images/Get Up and Go (Original Mix).jpg"
+},
+{
+  "id": 3,
+  "artistId": null,
+  "path": "music/becoming_ [with MARTIN KY].mp3",
+  "name": "becoming_",
+  "artist": "invention_",
+  "logo": "images/unknown.jpg"
+},
+{
+  "id": 4,
+  "artistId": null,
+  "path": "music/Sleepwell (Original Mix).mp3",
+  "name": "Sleepwell (Original Mix)",
+  "artist": "Aviino",
+  "logo": "images/Get Up and Go (Original Mix).jpg"
+},
+{
+  "id": 5,
+  "artistId": null,
+  "path": "music/Puff.mp3",
+  "name": "puff",
+  "artist": "Shamana & SwuM",
+  "logo": "images/Puff.jpg"
+},
+{
+  "id": 6,
+  "artistId": null,
+  "path": "music/Hallways.mp3",
+  "name": "Hallways",
+  "artist": "Kupla",
+  "logo": "images/Hallways.jpg"
+},
+{
+  "id": 7,
+  "artistId": null,
+  "path": "music/Subaquatic ft. Makkako.mp3",
+  "name": "Subaquatic ft. Makkako",
+  "artist": "Mr. KÃƒÂ¤fer",
+  "logo": "images/unknown.jpg"
+},
+{
+  "id": 8,
+  "artistId": null,
+  "path": "music/Hindsight.mp3",
+  "name": "Hindsight",
+  "artist": "Brock Berrigan",
+  "logo": "images/unknown.jpg"
+},
+{
+  "id": 9,
+  "artistId": null,
+  "path": "music/Awake (Original Mix).mp3",
+  "name": "Awake (Original Mix)",
+  "artist": "Allen Iversom",
+  "logo": "images/Awake (Original Mix).jpg"
+},
+{
+  "id": 10,
+  "artistId": null,
+  "path": "music/SAINT WKND No Spirit - Sand Under My Feet.mp3",
+  "name": "SAINT WKND, No Spirit - Sand Under My Feet",
+  "artist": "Chillhop Music",
+  "logo": "images/SAINT WKND, No Spirit - Sand Under My Feet.jpg"
+},
+{
+  "id": 11,
+  "artistId": null,
+  "path": "music/Lazy French Beagles.mp3",
+  "name": "Lazy French Beagles",
+  "artist": "psalm Trees, Guillaume Muschalle",
+  "logo": "images/Laze French Beagles.jpg"
+},
+{
+   "id": 12,
+  "artistId": "idonzzz",
+  "path": "music/idonzzz - sister.mp3",
+  "name": "sister",
+  "artist": "idonzzz",
+  "logo": "images/suiside girl.jpg"
+},
+{
+  "id": 13,
+  "artistId": "hiyakkiyako",
+  "path": "music/HIYAKKI YAKO - Old cigarettes.mp3",
+  "name": "Old cigarettes",
+  "artist": "HIYAKKI YAKO",
+  "logo": "images/interlude.jpg"
+},
+{
+  "id": 14,
+  "artistId": null,
+  "path": "music/With U.mp3",
+  "name": "With U",
+  "artist": "SwuM x idealism",
+  "logo": "images/unknown.jpg"
+},
+{
+  "id": 15,
+  "artistId": null,
+  "path": "music/Lord of Latveria.mp3",
+  "name": "Lord Of Latveria",
+  "artist": "j a r j a r j r",
+  "logo": "images/unknown.jpg"
+},
+{
+  "id": 16,
+  "artistId": null,
+  "path": "music/Lord of Latveria.mp3",
+  "name": "Lord Of Latveria",
+  "artist": "j a r j a r j r",
+  "logo": "images/unknown.jpg"
+},
+{
+  "id": 17,
+  "artistId": null,
+  "path": "music/somewhere.mp3",
+  "name": "somewhere",
+  "artist": "weird inside",
+  "logo": "images/unknown.jpg"
+},
+{
+  "id": 18,
+  "artistId": null,
+  "path": "music/Blue and Green.mp3",
+  "name": "Blue and Green",
+  "artist": "Hairs Cole & Aso",
+  "logo": "images/unknown.jpg"
+},
+{
+  "id": 19,
+  "artistId": null,
+  "path": "music/tranquil wave.mp3",
+  "name": "tranquil wave",
+  "artist": "fantompower",
+  "logo": "images/unknown.jpg"
+},
+{
+  "id": 20,
+  "artistId": null,
+  "path": "music/Eastway.mp3",
+  "name": "Eastway",
+  "artist": "Dontcry x Nokiaa",
+  "logo": "images/Purple.jpg"
+},
+{
+  "id": 21,
+  "artistId": null,
+  "path": "music/a tiny ferry ft. Temmo.mp3",
+  "name": "a tiny ferry ft. Temm",
+  "artist": "Delayde",
+  "logo": "images/unknown.jpg"
+},
+{
+  "id": 22,
+  "artistId": null,
+  "path": "music/Mama it's the same old song.mp3",
+  "name": "Mama it's the same old song",
+  "artist": "Knight",
+  "logo": "images/unknown.jpg"
+},
+{
+  "id": 23,
+  "artistId": null,
+  "path": "music/Chinua CHLL.mp3",
+  "name": "Chinua [CH/LL]",
+  "artist": "Made in M",
+  "logo": "images/Chu.jpg"
+},
+{
+  "id": 24,
+  "artistId": null,
+  "path": "music/quietus.mp3",
+  "name": "quiet/us",
+  "artist": "McClenney",
+  "logo": "images/unknown.jpg"
+},
+{
+  "id": 25,
+  "artistId": null,
+  "path": "music/Awakening.mp3",
+  "name": "Awakening",
+  "artist": "Flitz&Suppe x dcxv",
+  "logo": "images/unknown.jpg"
+},
+{
+  "id": 26,
+  "artistId": null,
+  "path": "music/Afloat.mp3",
+  "name": "Afloat",
+  "artist": "Kupla",
+  "logo": "images/unknown.jpg"
+},
+{
+  "id": 27,
+  "artistId": null,
+  "path": "music/On My Mind.mp3",
+  "name": "On My Mind",
+  "artist": "SwuM x Aso",
+  "logo": "images/unknown.jpg"
+},
+{
+  "id": 28,
+  "artistId": null,
+  "path": "music/I Wish It Were [You] feat. Taro.mp3",
+  "name": "I Wish It Were [You] feat. Taro",
+  "artist": "middle school",
+  "logo": "images/I Wish It Were feat Taro.jpg"
+},
+{
+  "id": 29,
+  "artistId": null,
+  "path": "music/Trippin.mp3",
+  "name": "Trippin",
+  "artist": "Smoke Trees",
+  "logo": "images/Trippin.jpg"
+},
+{
+  "id": 30,
+  "artistId": null,
+  "path": "music/Interstellar.mp3",
+  "name": "Interstellar",
+  "artist": "arbour x drkmnd",
+  "logo": "images/Interstellar.jpg"
+},
+{
+  "id": 31,
+  "artistId": null,
+  "path": "music/FlitzSuppe x dcxv - Dj-vu.mp3",
+  "name": "DÃƒÂ©jÃƒ  Vu",
+  "artist": "Flitz&Suppe x dcxv",
+  "logo": "images/unknown.jpg"
+},
+{
+  "id": 32,
+  "artistId": null,
+  "path": "music/Longwayhome.mp3",
+  "name": "Fenick x Delayde - Longwayhome",
+  "artist": "Fenick",
+  "logo": "images/fall.jpg"
+},
+{
+  "id": 33,
+  "artistId": null,
+  "path": "music/Procrastinating.mp3",
+  "name": "procrastinating",
+  "artist": "Sleepy Fish",
+  "logo": "images/Procrastinating.jpg"
+},
+{
+  "id": 34,
+  "artistId": null,
+  "path": "music/invention_ - __000.mp3",
+  "name": "n a t u r e_b u m p_000",
+  "artist": "invention_",
+  "logo": "images/unknown.jpg"
+},
+{
+  "id": 35,
+  "artistId": null,
+  "path": "music/fantompower- blankets.mp3",
+  "name": "fantompower",
+  "artist": "Chillhop Records",
+  "logo": "images/fantompower- blankets.jpg"
+},
+{
+  "id": 36,
+  "artistId": null,
+  "path": "music/SWORN - Sorry.mp3",
+  "name": "SWÃƒËœRN - Sorry",
+  "artist": "SWÃƒËœRN",
+  "logo": "images/unknown.jpg"
+},
+{
+  "id": 37,
+  "artistId": null,
+  "path": "music/Rockaway 5pm.mp3",
+  "name": "auv - Rockaway 5pm",
+  "artist": "auv",
+  "logo": "images/fall.jpg"
+},
+{
+  "id": 38,
+  "artistId": null,
+  "path": "music/Let's Forget Things We Said.mp3",
+  "name": "Let's Forget Things We Said",
+  "artist": "C Y G N",
+  "logo": "images/Let's Forget Things We Said.jpg"
+},
+{
+  "id": 39,
+  "artistId": null,
+  "path": "music/Yesterday (Original Mix).mp3",
+  "name": "Yesterday (Original Mix)",
+  "artist": "chief.",
+  "logo": "images/Yesterday (Original Mix).jpg"
+},
+{
+  "id": 40,
+  "artistId": null,
+  "path": "music/Sunsets (Original Mix).mp3",
+  "name": "Sunsets (Original Mix)",
+  "artist": "Aso",
+  "logo": "images/Sunsets (Original Mix).jpg"
+},
+{
+  "id": 41,
+  "artistId": null,
+  "path": "music/daybreak.mp3",
+  "name": "daybreak",
+  "artist": "CoryaYo",
+  "logo": "images/unknown.jpg"
+},
+{
+  "id": 42,
+  "artistId": null,
+  "path": "music/Perspective (Original Mix).mp3",
+  "name": "perspective (Original Mix)",
+  "artist": "Barnes Blvd.",
+  "logo": "images/Perspective (Original Mix).jpg"
+},
+{
+  "id": 43,
+  "artistId": null,
+  "path": "music/June.mp3",
+  "name": "June",
+  "artist": "Ian Ewing",
+  "logo": "images/June.jpg"
+},
+{
+  "id": 44,
+  "artistId": null,
+  "path": "music/Companion (Original Mix).mp3",
+  "name": "Companion (Original Mix)",
+  "artist": "C4C, Leavv",
+  "logo": "images/Laze French Beagles.jpg"
+},
+{
+  "id": 45,
+  "artistId": null,
+  "path": "music/Hibiscus Emoji (Original Mix).mp3",
+  "name": "Hibiscus Emoji (Original Mix)",
+  "artist": "Strehlow",
+  "logo": "images/Hibiscus Emoji (Original Mix).jpg"
+},
+{
+  "id": 46,
+  "artistId": "evilneedle",
+  "path": "music/Evil Needle - Hypnosis.mp3",
+  "name": "Evil Needle - Hypnosis",
+  "artist": "Evil Needle",
+  "logo": "images/Hibiscus Emoji (Original Mix).jpg"
+},
+{
+  "id": 47,
+  "artistId": null,
+  "path": "music/sadtoi - Aires.mp3",
+  "name": "sadtoi - Aires",
+  "artist": "sadtoi",
+  "logo": "images/fall.jpg"
+},
+{
+  "id": 48,
+  "artistId": null,
+  "path": "music/Morning Walk (Original Mix).mp3",
+  "name": "Morning Walk (Original Mix)",
+  "artist": "Chief.",
+  "logo": "images/fall.jpg"
+},
+{
+  "id": 49,
+  "artistId": null,
+  "path": "music/Beavis Pt.mp3",
+  "name": "Beavis Pt.1",
+  "artist": "philanthrope",
+  "logo": "images/Philanthrope - Beavis Pt.1.jpg"
+},
+{
+  "id": 50,
+  "artistId": "hiyakkiyako",
+  "path": "music/HIYAKKI YAKO - Kevin.mp3",
+  "name": "Kevin",
+  "artist": "HIYAKKI YAKO",
+  "logo": "images/interlude.jpg"
+},
+{
+  "id": 51,
+  "artistId": "idonzzz",
+  "path": "music/space lonely.mp3",
+  "name": "space lonely",
+  "artist": "idonzzz",
+  "logo": "images/space lonely.jpg"
+},
+{
+  "id": 52,
+  "artistId": "hiyakkiyako",
+  "path": "music/HIYAKKIYAKO-Createnewworld in.mp3",
+  "name": "Create new world in...",
+  "artist": "HIYAKKI YAKO",
+  "logo": "images/interlude.jpg"
+},
+{
+  "id": 53,
+  "artistId": "idonzzz",
+  "path": "music/idonzzz - Song of the birds.mp3",
+  "name": "Song of the birds",
+  "artist": "idonzzz",
+  "logo": "images/Song of the birds.jpg"
+},
+{
+  "id": 54,
+  "artistId": "idonzzz",
+  "path": "music/idonzzz - road to the station.mp3",
+  "name": "road to the station",
+  "artist": "idonzzz",
+  "logo": "images/road to the station.jpg"
+},
+{
+  "id": 55,
+  "artistId": "VQBQ",
+  "path": "music/VQBQ_Evening beach.mp3",
+  "name": "Evening beach",
+  "artist": "VQBQ",
+  "logo": "images/vqbq.jpg"
+},
+{
+  "id": 56,
+  "artistId": "VQBQ",
+  "path": "music/VQBQ_Good Memories.mp3",
+  "name": "Good Memories",
+  "artist": "VQBQ",
+  "logo": "images/vqbq.jpg"
+},
+{
+  "id": 57,
+  "artistId": "VQBQ",
+  "path": "music/VQBQ_Police.mp3",
+  "name": "Police",
+  "artist": "VQBQ",
+  "logo": "images/vqbq.jpg"
+},
+{
+  "id": 58,
+  "artistId": "VQBQ",
+  "path": "music/VQBQ_Slow Night Drive.mp3",
+  "name": "Slow Night Drive",
+  "artist": "VQBQ",
+  "logo": "images/vqbq.jpg"
+},
+{
+  "id": 59,
+  "artistId": "VQBQ",
+  "path": "music/VQBQ_street style.mp3",
+  "name": "street style",
+  "artist": "VQBQ",
+  "logo": "images/vqbq.jpg"
+}
+]

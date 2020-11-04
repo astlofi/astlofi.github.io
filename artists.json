@@ -1,0 +1,53 @@
+[
+    {
+        "id":0,
+        "artistId":"idonzzz",
+        "logo":"https://i1.sndcdn.com/avatars-185M7907H2qycHxq-35MU1g-t500x500.jpg",
+        "name":"Idonzzz",
+        "about":null,
+        "isVisible":true,
+        "socials":{
+            "vk":"vk.com/idonzzz",
+            "youtube":"https://www.youtube.com/c/idonzzz",
+            "twitter":null,
+            "instagram":"https://www.instagram.com/idonzzz/",
+            "soundcloud":"https://soundcloud.com/depressionnnn",
+            "spotify":"https://open.spotify.com/artist/0kmHgk8SFGNMBNOfkhqlco?si=YwlqtKYqTbCz4Zu1hJ6ddA",
+            "deezer":null
+        }
+    },
+    {
+        "id":1,
+        "artistId":"hiyakkiyako",
+        "logo":"https://sun9-28.userapi.com/gzeKnB5VPuI9gcRu0Q4R_Dw2fuPlhdfabTMsdg/dIPyQx7yW9g.jpg",
+        "name":"HIYAKKI YAKO",
+        "about":"Hiyakki Yako — «ночной парад ста духов», «ночное шествие сотни демонов» — японское поверье, связанное с представлениями о чертях, духах и демонах, которые ежегодно проходят летними ночами по улицам человеческих поселений, исчезая с рассветом.\nHIYAKKI YAKO — музыка и биты.",
+        "isVisible":true,
+        "socials":{
+            "vk":"https://vk.com/hiyakkiyako",
+            "youtube":"https://www.youtube.com/channel/UCxwR8UYxkJF0iOMEMCZz44A ",
+            "twitter":null,
+            "instagram":null,
+            "soundcloud":null,
+            "spotify":null,
+            "deezer":null
+        }
+    },
+    {
+        "id":2,
+        "artistId":"evilneedle",
+        "logo":"https://sun9-28.userapi.com/gzeKnB5VPuI9gcRu0Q4R_Dw2fuPlhdfabTMsdg/dIPyQx7yW9g.jpg",
+        "name":"Evil Needle",
+        "about":null,
+        "isVisible":true,
+        "socials":{
+            "vk": null,
+            "youtube":"https://www.youtube.com/channel/UCg2TAN484obS3oqbATNdaEw",
+            "twitter":"https://twitter.com/itsmeneedle",
+            "instagram":"https://www.instagram.com/itsmeneedle",
+            "soundcloud":"https://soundcloud.com/itsmeneedle",
+            "spotify":"https://open.spotify.com/artist/37nE9g0LRDhDSIejDuPKPS",
+            "deezer":"www.deezer.com/artist/2500341"
+        }
+    }
+]
