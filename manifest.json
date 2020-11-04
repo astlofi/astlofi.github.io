@@ -1,22 +1,17 @@
 {
-    "name": "ast lo-fi radio",
-    "short_name": "ast",
+  "name": "ast lo-fi radio",
+    "short_name": "ast team",
     "description": "lo-fi radio",
-    "icons": [
-        {
-            "src": "favicon.ico",
-            "sizes": "32x32",
-            "type": "image/ico"
-        },
-        // ...
-        {
-            "src": "lofiSmoothSquareIcon.png",
-            "sizes": "512x512",
-            "type": "image/png"
-        }
-    ],
-    "start_url": "index.html",
-    "display": "fullscreen",
-    "theme_color": "#a8a8a8",
-    "background_color": "#Bc0c0c0"
+    "start_url": "/",
+    "display": "standalone",
+    "theme_color": "#E6E6FA",
+    "background_color": "#E6E6FA",
+
+ "icons": [
+   {
+     "src":"/lofiSmoothSquareIcon.png",
+     "sizes": "512x512",
+     "type": "image\/png"
+   } 
+ ]
 }
