@@ -6,8 +6,9 @@
         "name":"Idonzzz",
         "about":null,
         "isVisible":true,
+        "vk":"https://vk.com/lofiartist",
         "socials":{
-            "vk":"https://vk.com/lofiartist",
+            
             "youtube":"https://www.youtube.com/c/idonzzz",
             "twitter":null,
             "instagram":"https://www.instagram.com/idonzzz/",
@@ -23,6 +24,7 @@
         "name":"HIYAKKI YAKO",
         "about":"Hiyakki Yako — «ночной парад ста духов», «ночное шествие сотни демонов» — японское поверье, связанное с представлениями о чертях, духах и демонах, которые ежегодно проходят летними ночами по улицам человеческих поселений, исчезая с рассветом.\nHIYAKKI YAKO — музыка и биты.",
         "isVisible":true,
+        "vk":"https://vk.com/hiyakkiyako",
         "socials":{
             "vk":"https://vk.com/hiyakkiyako",
             "youtube":"https://www.youtube.com/channel/UCxwR8UYxkJF0iOMEMCZz44A ",
@@ -40,6 +42,7 @@
         "name":"Evil Needle",
         "about":null,
         "isVisible":true,
+         "vk": null,
         "socials":{
             "vk": null,
             "youtube":"https://www.youtube.com/channel/UCg2TAN484obS3oqbATNdaEw",
@@ -57,6 +60,7 @@
         "name":"VQBQ",
         "about":"VQBQ",
         "isVisible":true,
+        "vk":"https://vk.com/public145649812",
         "socials":{
             "vk":"https://vk.com/public145649812",
             "youtube":"https://www.youtube.com/channel/UCahAFTRAkkADbI-Bw8tyiVg",
