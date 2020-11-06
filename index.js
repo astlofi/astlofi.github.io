@@ -156,7 +156,7 @@ async function radio() {
         if(trackObj.artistsId !== null){
             //artistsId имеется
             artistsObj = getartists(trackObj.artistsId);
-            document.getElementById("t_authorParent").setAttribute("href="+artistsObj.socials.vk+","javascript:('"+trackObj.artistsId+"');")
+            document.getElementById("t_authorParent").setAttribute("href="+artistsObj.socials.vk+"","javascript:('"+trackObj.artistsId+"');"
             document.getElementById("t_authorParent").setAttribute("onclick","showartists('"+trackObj.artistsId+"');")
         }else{
             //artistsId отсутствует
