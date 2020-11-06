@@ -7,7 +7,7 @@
         "about":null,
         "isVisible":true,
         "socials":{
-            "vk":"vk.com/idonzzz",
+            "vk":"https://vk.com/lofiartist",
             "youtube":"https://www.youtube.com/c/idonzzz",
             "twitter":null,
             "instagram":"https://www.instagram.com/idonzzz/",
@@ -48,6 +48,23 @@
             "soundcloud":"https://soundcloud.com/itsmeneedle",
             "spotify":"https://open.spotify.com/artist/37nE9g0LRDhDSIejDuPKPS",
             "deezer":"www.deezer.com/artist/2500341"
+        }
+    },
+    {
+    	        "id":3,
+        "artistId":"VQBQ",
+        "logo":"https://aslofiradio.imfast.io/images/bqbq.jpg",
+        "name":"VQBQ",
+        "about":"VQBQ",
+        "isVisible":true,
+        "socials":{
+            "vk":"https://vk.com/public145649812",
+            "youtube":"https://www.youtube.com/channel/UCahAFTRAkkADbI-Bw8tyiVg",
+            "twitter":null,
+            "instagram":null,
+            "soundcloud":null,
+            "spotify":null,
+            "deezer":null
         }
     }
 ]
