@@ -114,7 +114,7 @@ function formatTrackTime(timee) {
 
 function link() {
     window.open(artistsObj.socials.vk);
-};
+}
 async function radio() {
     if (tracksLoaded == true) {
         document.getElementById("t_trackTime").innerHTML = "<img src='https://aslofiradio.imfast.io/newPreloader.gif' width='16px' height='16px'>";
@@ -156,7 +156,7 @@ async function radio() {
         if(trackObj.artistsId !== null){
             //artistsId имеется
             artistsObj = getartists(trackObj.artistsId);
-            document.getElementById("t_authorParent").setAttribute("javascript:('"+trackObj.artistsId+"');");
+            document.getElementById("t_authorParent").setAttribute("href","javascript:('"+trackObj.artistsId+"');")
             document.getElementById("t_authorParent").setAttribute("onclick","showartists('"+trackObj.artistsId+"');")
         }else{
             //artistsId отсутствует
